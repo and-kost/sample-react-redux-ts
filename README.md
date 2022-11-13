@@ -1,4 +1,4 @@
-# Sample of using React with Redux adn Typescript
+# Sample of using React with Redux andTypescript
 
 ## Available Scripts
 
